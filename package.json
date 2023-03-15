@@ -9,7 +9,6 @@
     "deploy": "gh-pages -d build",
     "predeploy": "npm run build",
     "publish-gh-pages": "cross-env GIT_USER=chenhaihong CURRENT_BRANCH=master npm run deploy",
-    
     "start": "react-scripts start",
     "build": "vite build",
     "preview": "vite preview"
@@ -20,7 +19,6 @@
     "@react-three/fiber": "^8.12.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-simple-maps": "^1.0.0",
     "styled-components": "^5.3.8",
     "three": "^0.150.1"
   },
