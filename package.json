@@ -2,7 +2,7 @@
   "name": "react-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://ahrneloy.github.io/",
+  "homepage": "https://ahrniloy.github.io/",
   "type": "module",
   "scripts": {
     "dev": "vite",
